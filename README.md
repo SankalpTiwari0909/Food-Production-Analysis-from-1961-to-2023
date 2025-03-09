@@ -2,6 +2,7 @@
 This is a Dashboard representing the analysis of  global food production from 1961 to 2023 through Power BI
 
 The KPIs are :
+
 The total Rice Production globally from 1961 to 2023 is 269 billion tonnes.
 The total Wheat Production from 1961 to 2023 is 282 billion tonnes.
 The total Tea Production globally from 1961 to 2023 is 2 billion tonnes.
